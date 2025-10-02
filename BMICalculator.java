@@ -36,4 +36,4 @@ public class BMICalculator {
         sc.close();
     }
 }
-//
+//end of the bmi calculation
